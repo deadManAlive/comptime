@@ -43,7 +43,5 @@ namespace comptime {
     };
 }
 
-
-#undef STRSPC
 #undef STC
 #endif
