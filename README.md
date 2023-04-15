@@ -1,4 +1,4 @@
-# C++ Compile Time Function Collection
+# C++ Compile Time Functions Collection
 
 Just because C++ metaprogramming is awesome. Using C++20. Headers only.
 
