@@ -8,6 +8,7 @@ include `comptime.h`, use `comptime` namespace.
 ## Functions or (Structs)
 - `bool IsPrime<N>::value`
 - `size_t Fibonacci<N>::value` ($N$-th fibonacci from $F_0=0$ and $F_1=1$)
+- WIP for more...
 
 ### Note
  - Each `::value` is actually a `static constexpr <Type>`.
