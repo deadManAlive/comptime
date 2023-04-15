@@ -1,7 +1,6 @@
 #ifndef CONST_ISPRIME_H_
 #define CONST_ISPRIME_H_
 
-#define STC(Ty) static constexpr Ty
 #define INT_TY_ASRT static_assert(std::is_integral<decltype(N)>::value, "only accept integral types");
 
 namespace comptime {
@@ -48,5 +47,4 @@ namespace comptime {
 }
 
 #undef INT_TY_ASRT
-#undef STC
 #endif
