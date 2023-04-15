@@ -1,6 +1,6 @@
 # C++ Compile Time Functions Collection
 
-Just because C++ metaprogramming is awesome. Using C++20. Headers only.
+Just because C++ metaprogramming is awesome. Using C++11. Headers only.
 
 ## Usage
 include `comptime.h`, use `comptime` namespace.
